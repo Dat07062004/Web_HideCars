@@ -70,6 +70,7 @@ export default function CarsPage() {
             <option value="comfort">Comfort</option>
             <option value="premium">Premium</option>
             <option value="luxury">Luxury</option>
+            <option value="email">Email</option>
           </select>
 
           <input
