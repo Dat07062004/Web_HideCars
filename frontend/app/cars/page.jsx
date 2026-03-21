@@ -65,7 +65,7 @@ export default function CarsPage() {
             onChange={handleFilterChange}
             className="px-4 py-2 border border-gray-300 rounded-lg"
           >
-            <option value="">Tất cả loại</option>
+            <option value="">All categories</option>
             <option value="economy">Economy</option>
             <option value="comfort">Comfort</option>
             <option value="premium">Premium</option>
